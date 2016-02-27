@@ -12,3 +12,5 @@ OpenBR
 https://github.com/biometrics/openbr
 
 ~~~
+
+https://github.com/betars/Face-Resources
