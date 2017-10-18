@@ -26,6 +26,7 @@ https://github.com/wy1iu/sphereface
 
 Caffe
 https://github.com/happynear/NormFace
+https://github.com/ydwen/caffe-face
 
 ~~~
 
