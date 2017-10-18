@@ -21,6 +21,8 @@ http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
 OpenFace
 https://github.com/cmusatyalab/openface
 
+SphereFace
+https://github.com/wy1iu/sphereface
 
 Caffe
 https://github.com/happynear/NormFace
