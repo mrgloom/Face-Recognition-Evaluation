@@ -30,4 +30,8 @@ https://github.com/ydwen/caffe-face
 
 ~~~
 
+To look at:
+~~~
+https://github.com/tpys/face-everthing
 https://github.com/betars/Face-Resources
+~~~
